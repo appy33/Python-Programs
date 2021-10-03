@@ -1,0 +1,63 @@
+PROBLEM STATEMENT 
+
+Implement a function which returns True if the argument is Armstrong number otherwise False.
+
+SPECIFICATIONS 
+
+Write the function with the following specifications: 
+
+Name of function: isArmstrong() which accepts an integer and returns True or False
+
+If the number is a negative number return False.
+
+ 
+
+What is Armstrong number?
+
+Let x be the number of digits in 'n'. Therefore, if sum of the digits raised to x is equal to given 'n', then it is called as Armstrong number.
+
+ 
+
+Examples:  
+
+If called,
+
+ 1) isArmstrong(153) then return True.
+
+ 2) isArmstrong(3) then return True.
+
+ 3) isArmstrong(15) then return False.
+
+ 4) isArmstrong(150) then return False.
+
+ 5) isArmstrong(-53) then return False.
+
+
+
+
+
+
+
+ Define a function fizzBuzz which accepts an integer value as an argument and returns a list which satisfies following conditions.
+
+ 
+
+    Name of the function: fizzBuzz() // which accepts an integer argument and returns a list.
+
+    Arguments: One argument of type integer.
+
+    Return type: list
+
+ 
+
+Specifications
+
+ 
+
+The list returned by the function fizzBuzz() is determined by the following rules
+
+ 
+
+1. If a number is not a positive integer, return ["Invalid Inputs"].
+
+2. If a number is divisi
