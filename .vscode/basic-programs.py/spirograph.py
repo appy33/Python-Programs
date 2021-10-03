@@ -1,4 +1,4 @@
-from abc import abstractmethod
+
 import turtle
 turtle.bgcolor("black")
 turtle.pensize(2)
